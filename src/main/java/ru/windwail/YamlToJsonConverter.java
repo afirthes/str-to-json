@@ -47,7 +47,7 @@ public class YamlToJsonConverter {
             String jsonResult = convertToJson(lessons);
 
             // Write the JSON result to the build folder
-            String outputFileName = "output_" + fileName.replace(".yaml", ".json");
+            String outputFileName = fileName.replace(".yaml", ".json");
             writeFile(Paths.get("build", outputFileName), jsonResult);
         } else {
             System.out.println("File not found: " + fileName);

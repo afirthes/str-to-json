@@ -59,7 +59,7 @@ public class StringToJsonConverter {
             String jsonResult = convertToJson(wordDataList);
 
             // Write the JSON result to the build folder
-            String outputFileName = "output_" + inputFile.getFileName().toString().replace(".txt", ".json");
+            String outputFileName = inputFile.getFileName().toString().replace(".txt", ".json");
             writeFile(Paths.get("build", outputFileName), jsonResult);
         }
     }

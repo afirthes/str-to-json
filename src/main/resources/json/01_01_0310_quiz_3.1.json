@@ -1,0 +1,210 @@
+[
+  {
+    "id": "1",
+    "word": "ཕ་གི",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 1.83,
+    "playTo": 2.53
+  },
+  {
+    "id": "2",
+    "word": "ཉི་མ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 4.11,
+    "playTo": 4.72
+  },
+  {
+    "id": "3",
+    "word": "ཀི་ཀུ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 6.1,
+    "playTo": 7.05
+  },
+  {
+    "id": "4",
+    "word": "གི་གུ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 7.82,
+    "playTo": 8.71
+  },
+  {
+    "id": "5",
+    "word": "བ་ཆ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 11.0,
+    "playTo": 11.84
+  },
+  {
+    "id": "6",
+    "word": "ཁ་ཏ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 12.87,
+    "playTo": 13.56
+  },
+  {
+    "id": "7",
+    "word": "ཐུ་པ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 14.98,
+    "playTo": 15.6
+  },
+  {
+    "id": "8",
+    "word": "ཀ་བ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 16.95,
+    "playTo": 17.6
+  },
+  {
+    "id": "9",
+    "word": "གུ་ཏི་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 19.01,
+    "playTo": 19.87
+  },
+  {
+    "id": "10",
+    "word": "མི་གུ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 20.89,
+    "playTo": 21.61
+  },
+  {
+    "id": "11",
+    "word": "ན་བ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 22.91,
+    "playTo": 23.6
+  },
+  {
+    "id": "12",
+    "word": "ཁ་ཆུ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 24.56,
+    "playTo": 25.24
+  },
+  {
+    "id": "13",
+    "word": "ཅི་ག་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 26.52,
+    "playTo": 27.24
+  },
+  {
+    "id": "14",
+    "word": "ནུ་མ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 28.19,
+    "playTo": 28.97
+  },
+  {
+    "id": "15",
+    "word": "པ་ཕ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 30.38,
+    "playTo": 31.13
+  },
+  {
+    "id": "16",
+    "word": "ཆ་ག་པ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 31.98,
+    "playTo": 32.97
+  },
+  {
+    "id": "17",
+    "word": "བུ་གུ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 36.17,
+    "playTo": 36.87
+  },
+  {
+    "id": "18",
+    "word": "ཏ་ཀུ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 38.35,
+    "playTo": 38.85
+  },
+  {
+    "id": "19",
+    "word": "ཆུ་བ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 40.37,
+    "playTo": 40.99
+  },
+  {
+    "id": "20",
+    "word": "ག་ན་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 42.47,
+    "playTo": 43.2
+  },
+  {
+    "id": "21",
+    "word": "ཇ་ཁ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 44.34,
+    "playTo": 45.23
+  },
+  {
+    "id": "22",
+    "word": "ཐི་གུ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 46.32,
+    "playTo": 47.01
+  },
+  {
+    "id": "23",
+    "word": "ཁ་བ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 48.14,
+    "playTo": 48.83
+  },
+  {
+    "id": "24",
+    "word": "ཇ་ཁ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 49.94,
+    "playTo": 50.73
+  },
+  {
+    "id": "25",
+    "word": "ཉི་མ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 51.58,
+    "playTo": 52.25
+  },
+  {
+    "id": "26",
+    "word": "ཁ་ཆུ་",
+    "translation": "",
+    "audioFile": "01_01_0310_quiz_3.1",
+    "playFrom": 53.26,
+    "playTo": 53.84
+  }
+]

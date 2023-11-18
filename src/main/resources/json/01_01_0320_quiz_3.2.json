@@ -1,0 +1,370 @@
+[
+  {
+    "id": "1",
+    "word": "ལུ་གུ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 1.22,
+    "playTo": 1.89
+  },
+  {
+    "id": "2",
+    "word": "གོ་བ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 3.44,
+    "playTo": 4.01
+  },
+  {
+    "id": "3",
+    "word": "ན་སོ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 5.06,
+    "playTo": 5.75
+  },
+  {
+    "id": "4",
+    "word": "ངོ་མ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 6.56,
+    "playTo": 7.12
+  },
+  {
+    "id": "5",
+    "word": "ཏི་ལོ་པ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 8.18,
+    "playTo": 8.75
+  },
+  {
+    "id": "6",
+    "word": "ངོ་ཚ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 9.5,
+    "playTo": 10.15
+  },
+  {
+    "id": "7",
+    "word": "ཅེ་ན་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 10.81,
+    "playTo": 11.33
+  },
+  {
+    "id": "8",
+    "word": "ནུ་བོ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 12.19,
+    "playTo": 12.8
+  },
+  {
+    "id": "9",
+    "word": "རུ་མ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 13.52,
+    "playTo": 14.1
+  },
+  {
+    "id": "10",
+    "word": "ཛ་ཏི་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 14.8,
+    "playTo": 15.59
+  },
+  {
+    "id": "11",
+    "word": "བུ་ཚ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 16.21,
+    "playTo": 16.77
+  },
+  {
+    "id": "12",
+    "word": "ཧ་གོ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 17.8,
+    "playTo": 18.55
+  },
+  {
+    "id": "13",
+    "word": "ནུ་ཞོ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 19.27,
+    "playTo": 20.01
+  },
+  {
+    "id": "14",
+    "word": "ཚ་བ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 20.83,
+    "playTo": 21.34
+  },
+  {
+    "id": "15",
+    "word": "ཆུ་བོ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 22.18,
+    "playTo": 22.77
+  },
+  {
+    "id": "16",
+    "word": "ར་རོ་བ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 23.67,
+    "playTo": 24.38
+  },
+  {
+    "id": "17",
+    "word": "ར་ཤ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 25.12,
+    "playTo": 25.85
+  },
+  {
+    "id": "18",
+    "word": "ཝ་མོ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 26.53,
+    "playTo": 27.15
+  },
+  {
+    "id": "19",
+    "word": "མེ་རི་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 28.09,
+    "playTo": 28.76
+  },
+  {
+    "id": "20",
+    "word": "བེ་གེ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 29.74,
+    "playTo": 30.31
+  },
+  {
+    "id": "21",
+    "word": "མུ་སི་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 31.19,
+    "playTo": 31.79
+  },
+  {
+    "id": "22",
+    "word": "པེ་བེ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 32.94,
+    "playTo": 33.51
+  },
+  {
+    "id": "23",
+    "word": "ཚི་བ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 34.43,
+    "playTo": 34.97
+  },
+  {
+    "id": "24",
+    "word": "མི་གོ་པ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 36.29,
+    "playTo": 36.94
+  },
+  {
+    "id": "25",
+    "word": "ཤ་བ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 38.31,
+    "playTo": 38.99
+  },
+  {
+    "id": "26",
+    "word": "པོ་ལོ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 40.0,
+    "playTo": 40.48
+  },
+  {
+    "id": "27",
+    "word": "མི་ཏོ་པ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 41.62,
+    "playTo": 42.26
+  },
+  {
+    "id": "28",
+    "word": "ཧི་མ་ལ་ཡ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 42.87,
+    "playTo": 43.89
+  },
+  {
+    "id": "29",
+    "word": "ཤི་བ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 45.08,
+    "playTo": 45.63
+  },
+  {
+    "id": "30",
+    "word": "ཝ་ལེ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 46.44,
+    "playTo": 46.92
+  },
+  {
+    "id": "31",
+    "word": "ཕུ་བོ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 47.68,
+    "playTo": 48.28
+  },
+  {
+    "id": "32",
+    "word": "རི་མོ་བ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 49.16,
+    "playTo": 49.84
+  },
+  {
+    "id": "33",
+    "word": "ལ་ཉེ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 51.0,
+    "playTo": 51.58
+  },
+  {
+    "id": "34",
+    "word": "ལི་ལི་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 52.28,
+    "playTo": 52.99
+  },
+  {
+    "id": "35",
+    "word": "ཕོ་ཆེ་བ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 53.8,
+    "playTo": 54.52
+  },
+  {
+    "id": "36",
+    "word": "ཕོ་བ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 55.13,
+    "playTo": 55.65
+  },
+  {
+    "id": "37",
+    "word": "མོ་མ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 56.5,
+    "playTo": 57.13
+  },
+  {
+    "id": "38",
+    "word": "ཞ་ལུ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 57.63,
+    "playTo": 58.37
+  },
+  {
+    "id": "39",
+    "word": "ཨོ་ལོ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 59.02,
+    "playTo": 59.5
+  },
+  {
+    "id": "40",
+    "word": "བ་ཤ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 60.46,
+    "playTo": 61.06
+  },
+  {
+    "id": "41",
+    "word": "ལོ་ངོ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 61.85,
+    "playTo": 62.48
+  },
+  {
+    "id": "42",
+    "word": "ཆ་རུ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 63.02,
+    "playTo": 63.54
+  },
+  {
+    "id": "43",
+    "word": "ན་ལ་ི",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 64.21,
+    "playTo": 64.81
+  },
+  {
+    "id": "44",
+    "word": "ཆོ་ག་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 65.36,
+    "playTo": 65.85
+  },
+  {
+    "id": "45",
+    "word": "ང་རོ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 66.48,
+    "playTo": 67.07
+  },
+  {
+    "id": "46",
+    "word": "ངུ་མོ་",
+    "translation": "",
+    "audioFile": "01_01_0320_quiz_3.2",
+    "playFrom": 67.65,
+    "playTo": 68.21
+  }
+]

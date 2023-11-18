@@ -1,0 +1,514 @@
+[
+  {
+    "id": "1",
+    "word": "ག་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 1.53,
+    "playTo": 1.92
+  },
+  {
+    "id": "2",
+    "word": "ཕ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 3.31,
+    "playTo": 3.62
+  },
+  {
+    "id": "3",
+    "word": "མ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 4.74,
+    "playTo": 5.16
+  },
+  {
+    "id": "4",
+    "word": "པ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 6.59,
+    "playTo": 6.83
+  },
+  {
+    "id": "5",
+    "word": "ཀ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 8.14,
+    "playTo": 8.42
+  },
+  {
+    "id": "6",
+    "word": "ཏ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 9.76,
+    "playTo": 10.04
+  },
+  {
+    "id": "7",
+    "word": "ཆ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 11.42,
+    "playTo": 11.79
+  },
+  {
+    "id": "8",
+    "word": "བ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 13.16,
+    "playTo": 13.47
+  },
+  {
+    "id": "9",
+    "word": "ཐ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 14.97,
+    "playTo": 15.28
+  },
+  {
+    "id": "10",
+    "word": "ད་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 16.83,
+    "playTo": 17.14
+  },
+  {
+    "id": "11",
+    "word": "ཅ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 18.48,
+    "playTo": 18.78
+  },
+  {
+    "id": "12",
+    "word": "ང་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 19.93,
+    "playTo": 20.36
+  },
+  {
+    "id": "13",
+    "word": "མ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 21.62,
+    "playTo": 22.06
+  },
+  {
+    "id": "14",
+    "word": "ག་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 23.53,
+    "playTo": 23.87
+  },
+  {
+    "id": "15",
+    "word": "ཇ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 25.36,
+    "playTo": 25.74
+  },
+  {
+    "id": "16",
+    "word": "ཏ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 27.33,
+    "playTo": 27.59
+  },
+  {
+    "id": "17",
+    "word": "ཉ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 29.51,
+    "playTo": 29.9
+  },
+  {
+    "id": "18",
+    "word": "ད་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 31.27,
+    "playTo": 31.62
+  },
+  {
+    "id": "19",
+    "word": "ཆ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 32.87,
+    "playTo": 33.25
+  },
+  {
+    "id": "20",
+    "word": "བ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 34.49,
+    "playTo": 34.82
+  },
+  {
+    "id": "21",
+    "word": "ག་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 36.03,
+    "playTo": 36.41
+  },
+  {
+    "id": "22",
+    "word": "ཕ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 37.65,
+    "playTo": 37.96
+  },
+  {
+    "id": "23",
+    "word": "ཁ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 39.18,
+    "playTo": 39.54
+  },
+  {
+    "id": "24",
+    "word": "ན་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 40.84,
+    "playTo": 41.27
+  },
+  {
+    "id": "25",
+    "word": "ཐ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 42.47,
+    "playTo": 42.79
+  },
+  {
+    "id": "26",
+    "word": "ཅ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 44.21,
+    "playTo": 44.53
+  },
+  {
+    "id": "27",
+    "word": "པ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 45.69,
+    "playTo": 45.94
+  },
+  {
+    "id": "28",
+    "word": "ཀ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 46.98,
+    "playTo": 47.3
+  },
+  {
+    "id": "29",
+    "word": "པ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 48.45,
+    "playTo": 48.72
+  },
+  {
+    "id": "30",
+    "word": "ག་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 49.67,
+    "playTo": 50.04
+  },
+  {
+    "id": "31",
+    "word": "ད་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 51.38,
+    "playTo": 51.74
+  },
+  {
+    "id": "32",
+    "word": "ཆ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 52.85,
+    "playTo": 53.29
+  },
+  {
+    "id": "33",
+    "word": "མ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 54.35,
+    "playTo": 54.7
+  },
+  {
+    "id": "34",
+    "word": "ནི་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 55.92,
+    "playTo": 56.38
+  },
+  {
+    "id": "35",
+    "word": "ཁ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 57.59,
+    "playTo": 57.93
+  },
+  {
+    "id": "36",
+    "word": "ཕ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 59.22,
+    "playTo": 59.56
+  },
+  {
+    "id": "37",
+    "word": "ང་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 60.67,
+    "playTo": 61.13
+  },
+  {
+    "id": "38",
+    "word": "ཅ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 62.23,
+    "playTo": 62.61
+  },
+  {
+    "id": "39",
+    "word": "མ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 63.55,
+    "playTo": 63.97
+  },
+  {
+    "id": "40",
+    "word": "ཐ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 65.03,
+    "playTo": 65.38
+  },
+  {
+    "id": "41",
+    "word": "ཆ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 66.42,
+    "playTo": 66.86
+  },
+  {
+    "id": "42",
+    "word": "ན་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 67.92,
+    "playTo": 68.4
+  },
+  {
+    "id": "43",
+    "word": "བ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 69.38,
+    "playTo": 69.75
+  },
+  {
+    "id": "44",
+    "word": "ཏ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 70.86,
+    "playTo": 71.13
+  },
+  {
+    "id": "45",
+    "word": "ཅ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 72.31,
+    "playTo": 72.59
+  },
+  {
+    "id": "46",
+    "word": "མ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 73.55,
+    "playTo": 73.97
+  },
+  {
+    "id": "47",
+    "word": "པ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 74.89,
+    "playTo": 75.2
+  },
+  {
+    "id": "48",
+    "word": "ཐ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 76.23,
+    "playTo": 76.56
+  },
+  {
+    "id": "49",
+    "word": "དུ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 77.68,
+    "playTo": 78.04
+  },
+  {
+    "id": "50",
+    "word": "པ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 79.05,
+    "playTo": 79.36
+  },
+  {
+    "id": "51",
+    "word": "ག་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 80.39,
+    "playTo": 80.76
+  },
+  {
+    "id": "52",
+    "word": "ན་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 81.74,
+    "playTo": 82.15
+  },
+  {
+    "id": "53",
+    "word": "ཁ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 83.09,
+    "playTo": 83.49
+  },
+  {
+    "id": "54",
+    "word": "ད་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 84.48,
+    "playTo": 84.82
+  },
+  {
+    "id": "55",
+    "word": "བུ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 85.81,
+    "playTo": 86.19
+  },
+  {
+    "id": "56",
+    "word": "ཆ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 87.12,
+    "playTo": 87.49
+  },
+  {
+    "id": "57",
+    "word": "མི་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 88.46,
+    "playTo": 88.94
+  },
+  {
+    "id": "58",
+    "word": "ཉ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 89.75,
+    "playTo": 90.19
+  },
+  {
+    "id": "59",
+    "word": "ཐི་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 91.32,
+    "playTo": 91.72
+  },
+  {
+    "id": "60",
+    "word": "ངུ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 92.53,
+    "playTo": 92.94
+  },
+  {
+    "id": "61",
+    "word": "མ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 93.87,
+    "playTo": 94.3
+  },
+  {
+    "id": "62",
+    "word": "ཏུ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 95.28,
+    "playTo": 95.58
+  },
+  {
+    "id": "63",
+    "word": "གུ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 96.5,
+    "playTo": 96.85
+  },
+  {
+    "id": "64",
+    "word": "ཀ་",
+    "translation": "",
+    "audioFile": "01_01_0213_quiz_2.1.3",
+    "playFrom": 97.8,
+    "playTo": 98.05
+  }
+]
