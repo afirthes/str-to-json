@@ -10,6 +10,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
@@ -99,7 +100,15 @@ public class StringToJsonConverter {
                 id++;
                 String[] parts = line.split("\\s+");
                 String word = parts[0];
-                String translation = (parts.length > 3) ? parts[3] : "";
+
+                String translation;
+                if (parts.length > 3) {
+                    var translationArray = Arrays.copyOfRange(parts, 3, parts.length);
+                    translation = String.join(" ", translationArray);
+                } else {
+                    translation = "";
+                }
+
                 double playFrom = Double.parseDouble(parts[1]);
                 double playTo = Double.parseDouble(parts[2]);
 

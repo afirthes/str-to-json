@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "word": "ཀ་བ།",
+    "translation": "столб",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 0.92,
+    "playTo": 1.63
+  },
+  {
+    "id": "2",
+    "word": "ཁ།",
+    "translation": "рот",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 2.74,
+    "playTo": 3.23
+  },
+  {
+    "id": "3",
+    "word": "ཁ་བ།",
+    "translation": "снег",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 4.1,
+    "playTo": 5.01
+  },
+  {
+    "id": "4",
+    "word": "ཁ་ལོ་བ།",
+    "translation": "водитель",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 6.17,
+    "playTo": 6.94
+  },
+  {
+    "id": "5",
+    "word": "ཁ་ས།",
+    "translation": "вчера",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 8.04,
+    "playTo": 8.8
+  },
+  {
+    "id": "6",
+    "word": "ང་།",
+    "translation": "я",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 9.6,
+    "playTo": 10.39
+  },
+  {
+    "id": "7",
+    "word": "ཆུ།",
+    "translation": "вода",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 11.19,
+    "playTo": 11.99
+  },
+  {
+    "id": "8",
+    "word": "ཇ།",
+    "translation": "чай",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 12.99,
+    "playTo": 13.94
+  },
+  {
+    "id": "9",
+    "word": "ཉ།",
+    "translation": "рыба",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 14.75,
+    "playTo": 15.5
+  },
+  {
+    "id": "10",
+    "word": "ཉི་མ།",
+    "translation": "солнце, день",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 16.39,
+    "playTo": 17.15
+  },
+  {
+    "id": "11",
+    "word": "བུ་གུ",
+    "translation": "ребенок, дети",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 17.9,
+    "playTo": 18.94
+  },
+  {
+    "id": "12",
+    "word": "ཕ་མ།",
+    "translation": "родители",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 19.66,
+    "playTo": 20.37
+  },
+  {
+    "id": "13",
+    "word": "བུ།",
+    "translation": "ребенок, мальчик, сын",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 21.21,
+    "playTo": 21.81
+  },
+  {
+    "id": "14",
+    "word": "བུ་མོ།",
+    "translation": "дочь, девочка",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 22.85,
+    "playTo": 23.62
+  },
+  {
+    "id": "15",
+    "word": "མི།",
+    "translation": "человек",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 24.58,
+    "playTo": 25.29
+  },
+  {
+    "id": "16",
+    "word": "མོ་ཊ།",
+    "translation": "машина",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 26.44,
+    "playTo": 27.39
+  },
+  {
+    "id": "17",
+    "word": "མོ་སི་ཁོ།",
+    "translation": "Москва",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 28.13,
+    "playTo": 29.27
+  },
+  {
+    "id": "18",
+    "word": "ཙི་ཙི།",
+    "translation": "мышь",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 30.46,
+    "playTo": 31.27
+  },
+  {
+    "id": "19",
+    "word": "ཚ་པོ།",
+    "translation": "горячий",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 31.7,
+    "playTo": 33.24
+  },
+  {
+    "id": "20",
+    "word": "ཞི་མི།",
+    "translation": "кошка",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 33.4,
+    "playTo": 34.49
+  },
+  {
+    "id": "21",
+    "word": "རི།",
+    "translation": "гора",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 35.32,
+    "playTo": 36.1
+  },
+  {
+    "id": "22",
+    "word": "རི་མོ།",
+    "translation": "картина, рисунок, нарисованное изображение",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 36.95,
+    "playTo": 37.93
+  },
+  {
+    "id": "23",
+    "word": "རི་མོ་བ།",
+    "translation": "художник",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 38.71,
+    "playTo": 39.57
+  },
+  {
+    "id": "24",
+    "word": "ལོ།",
+    "translation": "год",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 40.44,
+    "playTo": 41.23
+  },
+  {
+    "id": "25",
+    "word": "ཤ།",
+    "translation": "мясо, плоть",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 41.64,
+    "playTo": 43.29
+  },
+  {
+    "id": "26",
+    "word": "ཨ་ཁུ།",
+    "translation": "дядя по отцовской линии",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 43.66,
+    "playTo": 44.68
+  },
+  {
+    "id": "27",
+    "word": "ཨ་ཕ།",
+    "translation": "папа",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 45.34,
+    "playTo": 46.13
+  },
+  {
+    "id": "28",
+    "word": "ཨ་མ།",
+    "translation": "мама",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 46.97,
+    "playTo": 47.75
+  },
+  {
+    "id": "29",
+    "word": "ཨུ་རུ་སུ།",
+    "translation": "Россия",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 48.71,
+    "playTo": 49.74
+  },
+  {
+    "id": "30",
+    "word": "ཨུ་རུ་སུ་མི།",
+    "translation": "русский",
+    "audioFile": "01_01_0500_new_words",
+    "playFrom": 50.64,
+    "playTo": 51.76
+  }
+]
