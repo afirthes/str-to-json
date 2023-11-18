@@ -14,7 +14,6 @@ import java.util.stream.Collectors;
 public class YamlToJsonConverter {
     public static void main(String[] args) {
         try {
-            clearBuildFolder();
             convertYamlFileInResources("lessons.yml");
         } catch (IOException e) {
             e.printStackTrace();
