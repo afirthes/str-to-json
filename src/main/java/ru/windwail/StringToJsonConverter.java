@@ -113,8 +113,6 @@ public class StringToJsonConverter {
 
     private static String convertToJson(List<WordData> wordDataList) {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
-
-        JsonObject result = new JsonObject();
         JsonArray dataArray = new JsonArray();
 
         for (WordData wordData : wordDataList) {
@@ -129,9 +127,7 @@ public class StringToJsonConverter {
             dataArray.add(wordObject);
         }
 
-        result.add("data", dataArray);
-
-        return gson.toJson(result);
+        return gson.toJson(dataArray);
     }
 
     private static class WordData {
