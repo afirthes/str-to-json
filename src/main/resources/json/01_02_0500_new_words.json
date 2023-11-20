@@ -1,0 +1,266 @@
+[
+  {
+    "id": "1",
+    "word": "ཁ་པར།",
+    "translation": "телефон",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 1.02,
+    "playTo": 2.41
+  },
+  {
+    "id": "2",
+    "word": "ཁ་ལག",
+    "translation": "еда",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 2.72,
+    "playTo": 4.05
+  },
+  {
+    "id": "3",
+    "word": "ཁང་པ།",
+    "translation": "дом, здание",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 4.23,
+    "playTo": 5.45
+  },
+  {
+    "id": "4",
+    "word": "ཁོང་།",
+    "translation": "он/ она",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 6.0,
+    "playTo": 7.2
+  },
+  {
+    "id": "5",
+    "word": "ག་རེ།",
+    "translation": "что?",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 7.22,
+    "playTo": 8.54
+  },
+  {
+    "id": "6",
+    "word": "ག་བར།/ག་པར།",
+    "translation": "где?",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 8.86,
+    "playTo": 12.11
+  },
+  {
+    "id": "7",
+    "word": "ཅོ་ཅོག/ཅོ་ལགས།",
+    "translation": "старший брат (обращение к ровеснику)",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 12.85,
+    "playTo": 15.98
+  },
+  {
+    "id": "8",
+    "word": "ཇོ་ཇོ།/ཇོ་ལགས།",
+    "translation": "старший брат (обращение к ровеснику)",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 16.21,
+    "playTo": 19.09
+  },
+  {
+    "id": "9",
+    "word": "ཇ་ཁང་།",
+    "translation": "чайная",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 19.45,
+    "playTo": 21.08
+  },
+  {
+    "id": "10",
+    "word": "དེབ།",
+    "translation": "книга",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 21.61,
+    "playTo": 22.95
+  },
+  {
+    "id": "11",
+    "word": "ནང་།",
+    "translation": "дом/ внутри",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 23.32,
+    "playTo": 24.72
+  },
+  {
+    "id": "12",
+    "word": "ནང་པ།",
+    "translation": "буддист",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 25.18,
+    "playTo": 26.45
+  },
+  {
+    "id": "13",
+    "word": "པར་ཆས།",
+    "translation": "фотокамера",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 27.24,
+    "playTo": 28.81
+  },
+  {
+    "id": "14",
+    "word": "བག་ལེབ།",
+    "translation": "хлеб",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 29.02,
+    "playTo": 30.58
+  },
+  {
+    "id": "15",
+    "word": "བོད།",
+    "translation": "Тибет",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 30.75,
+    "playTo": 32.06
+  },
+  {
+    "id": "16",
+    "word": "བོད་པ།",
+    "translation": "тибетец",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 32.33,
+    "playTo": 34.1
+  },
+  {
+    "id": "17",
+    "word": "མར།",
+    "translation": "масло",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 34.54,
+    "playTo": 35.98
+  },
+  {
+    "id": "18",
+    "word": "མེ།",
+    "translation": "огонь",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 36.33,
+    "playTo": 37.96
+  },
+  {
+    "id": "19",
+    "word": "མེ་ཏོག",
+    "translation": "цветок",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 37.87,
+    "playTo": 39.46
+  },
+  {
+    "id": "20",
+    "word": "ཚེམ་བུ་བ།",
+    "translation": "портной",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 39.67,
+    "playTo": 41.1
+  },
+  {
+    "id": "21",
+    "word": "ཚེང་པ།",
+    "translation": "торговец, продавец, бизнесмен",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 41.82,
+    "playTo": 43.3
+  },
+  {
+    "id": "22",
+    "word": "ཚེང་ཁང་།",
+    "translation": "магазин",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 43.5,
+    "playTo": 44.94
+  },
+  {
+    "id": "23",
+    "word": "ཟ་ཁང་།",
+    "translation": "столовая, ресторан",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 45.44,
+    "playTo": 47.11
+  },
+  {
+    "id": "24",
+    "word": "འོག་མ།",
+    "translation": "младшая сестра, младший брат",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 47.29,
+    "playTo": 48.84
+  },
+  {
+    "id": "25",
+    "word": "ལག་པ།",
+    "translation": "рука",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 49.36,
+    "playTo": 50.71
+  },
+  {
+    "id": "26",
+    "word": "ལགས།",
+    "translation": "частица почтительности",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 50.94,
+    "playTo": 51.95
+  },
+  {
+    "id": "27",
+    "word": "ལས་ཀ།",
+    "translation": "работа",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 52.63,
+    "playTo": 53.72
+  },
+  {
+    "id": "28",
+    "word": "ལས་ཁུངས།",
+    "translation": "офис, фирма",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 54.12,
+    "playTo": 55.45
+  },
+  {
+    "id": "29",
+    "word": "ཤིང་ཏོག",
+    "translation": "фрукт",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 56.12,
+    "playTo": 57.59
+  },
+  {
+    "id": "30",
+    "word": "སུ།",
+    "translation": "кто?",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 57.72,
+    "playTo": 58.92
+  },
+  {
+    "id": "31",
+    "word": "ཨ་ཞང་།",
+    "translation": "дядя (по материнской линии)",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 59.12,
+    "playTo": 60.69
+  },
+  {
+    "id": "32",
+    "word": "ཨ་ནེ།",
+    "translation": "тётя (по отцовской линии)",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 61.22,
+    "playTo": 62.5
+  },
+  {
+    "id": "33",
+    "word": "ཨ་ཅག",
+    "translation": "старшая сестра (обращение к ровеснице)",
+    "audioFile": "01_02_0500_new_words",
+    "playFrom": 63.1,
+    "playTo": 65.23
+  }
+]

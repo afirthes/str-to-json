@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "word": "ཚེ་རིང་།",
+    "translation": "Церинг",
+    "audioFile": "01_02_0510_names",
+    "playFrom": 0.8,
+    "playTo": 2.4
+  },
+  {
+    "id": "2",
+    "word": "པ་སངས།",
+    "translation": "Пасан",
+    "audioFile": "01_02_0510_names",
+    "playFrom": 3.0,
+    "playTo": 4.9
+  },
+  {
+    "id": "3",
+    "word": "ཡོན་ཏན།",
+    "translation": "Йонтен",
+    "audioFile": "01_02_0510_names",
+    "playFrom": 6.3,
+    "playTo": 7.9
+  }
+]
